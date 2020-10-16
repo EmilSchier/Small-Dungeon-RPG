@@ -10,11 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
-  m_Name: wall_fountain_baisin_red 1
+  m_Name: wall_fountain_baisin_blue
   m_EditorClassIdentifier: 
-  m_AnimatedSprites: []
-  m_MinSpeed: 1
-  m_MaxSpeed: 1
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: f403056c7f5f69a44ba2a025a2fb9d2d, type: 3}
+  - {fileID: 21300000, guid: 3e7dafd5dd368b24da9e31e5869df4da, type: 3}
+  - {fileID: 21300000, guid: 4301af81a3a6d3748b1392f5fbe2444a, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
   m_AnimationStartTime: 0
   m_AnimationStartFrame: 0
   m_TileColliderType: 0
