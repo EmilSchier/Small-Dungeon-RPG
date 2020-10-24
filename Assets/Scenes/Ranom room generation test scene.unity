@@ -367,16 +367,16 @@ MonoBehaviour:
   wallEndTile: {fileID: 11400000, guid: 0dc241be71980d34c8696adfd75eaa9a, type: 2}
   wallLeftTile: {fileID: 11400000, guid: 107de9819e3d6734dbc96b4b6946caed, type: 2}
   wallRightTile: {fileID: 11400000, guid: 68dff7ec3ae9369478ae0a4dc631d14f, type: 2}
-  wallTile: {fileID: 11400000, guid: d92cb022fdde5914c824fd986bee255c, type: 2}
+  wallTile: {fileID: 11400000, guid: 82b14aa77c2c72a429e31310d844ace0, type: 2}
   groundMap: {fileID: 253535490}
   pitMap: {fileID: 1009170341}
   wallMap: {fileID: 873494216}
   wallTopMap: {fileID: 1024508111}
   player: {fileID: 0}
   deviationRate: 10
-  roomRate: 20
-  maxRouteLength: 100
-  maxRoutes: 20
+  roomRate: 15
+  maxRouteLength: 50
+  maxRoutes: 5
 --- !u!156049354 &554690852
 Grid:
   m_ObjectHideFlags: 0
