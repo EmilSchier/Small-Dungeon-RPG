@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 074376bdd99851146a60a13acca4c5ae, type: 3}
   m_Name: Shield
   m_EditorClassIdentifier: 
-  prefab: {fileID: 0}
+  prefab: {fileID: 954198130975574691, guid: 686455facd388c74b9d6bf34e2047593, type: 3}
   type: 1
   description: A simple wooden shield
   atkBonus: 0

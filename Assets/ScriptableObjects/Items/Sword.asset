@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 074376bdd99851146a60a13acca4c5ae, type: 3}
   m_Name: Sword
   m_EditorClassIdentifier: 
-  prefab: {fileID: 0}
+  Id: 4
+  uiDisplay: {fileID: 21300000, guid: f8d36ca5799d317498a2d1d805905649, type: 3}
   type: 1
   description: A short rusty sword
   atkBonus: 10

@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 074376bdd99851146a60a13acca4c5ae, type: 3}
   m_Name: WarAxe
   m_EditorClassIdentifier: 
-  prefab: {fileID: 0}
+  Id: 5
+  uiDisplay: {fileID: 21300000, guid: 0bc6a8b6f244eb14f8f573ac749fcb61, type: 3}
   type: 1
   description: A brutish looking Axe
   atkBonus: 20

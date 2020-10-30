@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 0}
   m_Name: HealthPotion
   m_EditorClassIdentifier: Assembly-CSharp::NewBehaviourScript
-  prefab: {fileID: 0}
+  Id: 1
+  uiDisplay: {fileID: 21300000, guid: 5bff2de8c530d09428d16257ec4f3e5a, type: 3}
   type: 0
   description: Swirling red potion
   restoredHealthValue: 10

@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b06a2c7bf61e7a419bc28cd9749cac3, type: 3}
   m_Name: Bones
   m_EditorClassIdentifier: 
-  prefab: {fileID: 0}
+  Id: 0
+  uiDisplay: {fileID: 21300000, guid: 7c4a56fe24f62e949929869f3079b0fe, type: 3}
   type: 2
   description: The remains of those you have slain!
